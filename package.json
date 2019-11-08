@@ -1,0 +1,23 @@
+{
+  "name": "iota.js-browserified",
+  "version": "1.0.0",
+  "description": "browserify version: 16.2.3",
+  "main": "iota.js-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoralf-M/iota.js-browserified.git"
+  },
+  "author": "Thoralf-M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thoralf-M/iota.js-browserified/issues"
+  },
+  "homepage": "https://github.com/Thoralf-M/iota.js-browserified#readme",
+  "dependencies": {
+    "@iota/cda": "^1.0.0-beta.21",
+    "@iota/core": "^1.0.0-beta.21"
+  }
+}
